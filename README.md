@@ -26,7 +26,7 @@ under basics -> [Getting started](https://yadm.io/docs/getting_started).
 Or, just type this in your terminal:
 
 ```shell
-▶ yadm clone git@github.com:AnneMatilde/dotfiles.git
+▶ yadm clone git@github.com:braaar/dotfiles.git
 ```
 
 You should have all your files located in `$HOME` at this point. All you have to do
