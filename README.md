@@ -1,4 +1,4 @@
-# Anne Matilde's Dotfiles
+# Brage's Dotfiles
 
 This is a fork of [cobraz/dotfiles](https://github.com/cobraz/dotfiles).
 
